@@ -1,0 +1,16 @@
+{
+  "token": "",
+    "mongoURI": "",
+  "prefix": ".",
+  "ownerid": "",
+  "buylogChannelId": "", 
+  "stockChannelId": "",
+  "yourBotId": "",
+"desiredChannelId": "",
+"specificUserId": "",
+  "imageURL": "",
+  "wlEmoji": "<>",
+  "emoji1": "<>",
+  "emoji2": "<>",
+  "emoji3": "<>"
+}
